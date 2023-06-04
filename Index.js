@@ -1,4 +1,4 @@
-let a = prompt ("Whatr is your age?");
+let a = prompt ("What is your age?");
 
 a = Number.parseInt(a);
 // let b = alert ("Hay");
